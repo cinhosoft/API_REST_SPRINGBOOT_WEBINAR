@@ -1458,7 +1458,7 @@ public class FacturaRestController {
 ![](Aspose.Words.1885f979-9e30-4ff3-91e0-fd4ffca79d3f.048.png)
 
 **Actualizar Factura:**
-```
+``` 
 {
 
 	"descripcion":"Factura 5",
